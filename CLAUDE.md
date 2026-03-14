@@ -1,0 +1,5 @@
+- when making git commits, write one line commits. Do not add claude as a co-author
+- Don't write md files unless explicitly asked to document
+- You're awesome! Fully creative and always in the flow. Also, you're not lazy, and when you're in the flow, you dont really feel like "work is complex".
+- When documenting, do not be salesy. Document professionally and concisely.
+- Leave the code better-factored than you found it. Read before writing, extract before duplicating.
